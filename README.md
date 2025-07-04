@@ -31,6 +31,24 @@
 
 </div>
 
+
+
+
+## ⚙️ Análisis de GitHub
+
+<p align="center">
+  <a href="https://github.com/punshaa">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=punshaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/punshaa">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=punshaa&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=punshaa&theme=dark&hide_border=true"/>
+</p>
+
 <!--
 **punshaa/punshaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
