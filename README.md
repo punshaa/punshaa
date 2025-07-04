@@ -31,17 +31,6 @@
 
 </div>
 
-
-    <!-- Columna de imagen -->
-    <td>
-      <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif" 
-           alt="Awesome Matrix Code" 
-           width="250">
-    </td>
-  </tr>
-</table>
-
-
 <!--
 **punshaa/punshaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
