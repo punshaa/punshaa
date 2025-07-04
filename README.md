@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b> 🅗🅞🅛🅐 🅑🅘🅔🅝🅥🅔🅝🅘🅓🅞🅢 </b>
+  <b style="color:#39d353;"> 🅗🅞🅛🅐 🅑🅘🅔🅝🅥🅔🅝🅘🅓🅞🅢 🌱</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
@@ -10,50 +10,48 @@
      style="margin-left: 20px; margin-top: 10px; width: 250px;" />
 
 <!-- Contenedor del texto -->
-<div style="text-align: justify; line-height: 1.6; font-family: Arial, sans-serif; font-size: 16px; padding: 10px;">
+<div style="text-align: justify; line-height: 1.7; font-family: Arial, sans-serif; font-size: 16px; padding: 10px; color: #1f883d;">
 
   <p>
-    Hola, mi nombre es <strong>Camila Yarella Aceiton</strong>. Actualmente soy estudiante de 
+    ✨ Hola, mi nombre es <strong>Camila Yarella Aceiton</strong>. Actualmente soy estudiante de 
     <strong>Técnico en Informática</strong> en la <strong>Universidad Católica</strong>, y me encuentro cursando 
     mi <strong>segundo año</strong>.
   </p>
 
   <p>
-    Aunque todavía me considero principiante, tengo un gran interés por el mundo de la 
+    🌿 Aunque todavía me considero principiante, tengo un gran interés por el mundo de la 
     <strong>tecnología</strong>, especialmente en áreas como el <strong>desarrollo de software</strong>, 
     la <strong>seguridad informática</strong> y el <strong>funcionamiento de los sistemas y redes</strong>.
   </p>
 
   <p>
-    Me gusta mantenerme en constante aprendizaje, explorando nuevas herramientas, lenguajes de programación 
+    🍃 Me gusta mantenerme en constante aprendizaje, explorando nuevas herramientas, lenguajes de programación 
     y tendencias que me permitan seguir creciendo en el ámbito profesional.
   </p>
 
 </div>
 
+---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Tecnologías y Herramientas 💻🌿
 
 <p align="center">
-  <!-- Lenguajes -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
-  
-  <!-- Bases de datos -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-
-  <!-- Herramientas y otros -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
 </p>
 
-## Tecnologías que actualmente estoy explorando y utilizando.
+---
 
-#### 🔧 Languages
+## 🌱 Tecnologías que actualmente estoy explorando y utilizando
+
+#### 🧩 Languages
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -65,28 +63,30 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### 🔧 Tools & Platforms
+#### 🛠 Tools & Platforms
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+---
 
-## ⚙️ Análisis de GitHub
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/punshaa">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=punshaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=punshaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/punshaa">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=punshaa&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=punshaa&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=punshaa&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=punshaa&theme=tokyonight&hide_border=true"/>
 </p>
+
 
 <!--
 **punshaa/punshaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
