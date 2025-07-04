@@ -5,7 +5,10 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mi***
 
-Hola, mi nombre es Camila Yarella Aceiton. Actualmente soy estudiante de Técnico en Informática en la Universidad Católica, y me encuentro cursando mi segundo año. Aunque todavía me considero principiante, tengo un gran interés por el mundo de la tecnología, especialmente en áreas como el desarrollo de software, la seguridad informática y el funcionamiento de los sistemas y redes. Me gusta mantenerme en constante aprendizaje, descubriendo nuevas herramientas, lenguajes de programación y tendencias que me permitan seguir creciendo en el ámbito profesional.
+Hola, mi nombre es Camila Yarella Aceiton. Actualmente soy estudiante de Técnico en Informática en la Universidad Católica,
+y me encuentro cursando mi segundo año. Aunque todavía me considero principiante, tengo un gran interés por el mundo de la tecnología, 
+especialmente en áreas como el desarrollo de software, la seguridad informática y el funcionamiento de los sistemas y redes. 
+Me gusta mantenerme en constante aprendizaje, descubriendo nuevas herramientas, lenguajes de programación y tendencias que me permitan seguir creciendo en el ámbito profesional.
 
 <!--
 **punshaa/punshaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
