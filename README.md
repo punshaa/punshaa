@@ -13,11 +13,6 @@
 <div style="text-align: justify; line-height: 1.6; font-family: Arial, sans-serif; font-size: 16px; padding: 10px;">
 
   <p>
-    <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
-    &nbsp;<strong style="font-size: 18px;">Sobre mí</strong>
-  </p>
-
-  <p>
     Hola, mi nombre es <strong>Camila Yarella Aceiton</strong>. Actualmente soy estudiante de 
     <strong>Técnico en Informática</strong> en la <strong>Universidad Católica</strong>, y me encuentro cursando 
     mi <strong>segundo año</strong>.
